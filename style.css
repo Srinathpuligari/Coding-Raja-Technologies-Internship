@@ -1,8 +1,5 @@
-/*
-#cv-form{
-     display:none; 
-}
-*/
+h3 {color:#66fcf1;}
+h1{color: #66fcf1;font-weight:bold;}
 #cv-template{
     display:none;
 }
@@ -15,21 +12,25 @@
     background-color:rgba(147, 141, 126, 0.224);
 }   
 body{
-    background-color:#d6dcc5;
+    background-color:#1f2833;
 }
+label{color:#ff6c17;font-style:italic;}
 .ab{
-    background-color: #acbb90;
+    background-color:#0b0c10;
 }
 .form-control{
     display: block;
     width: 100%; /* THIS */
     height: 34px;
-    padding: 6px 12px;
-    font-size: 14px;
+    padding: 8px 12px;
+    font-size: 20px;
     line-height: 1.42857143;
     color: #555; /* THIS */
-    background-color: #fff;
+    background-color: #0b0c10;
     background-image: none;
-    border: 1px solid #ccc; /* THIS */
-    border-radius: 4px; /* THIS */
+    border: 3px solid #66fcf1; /* THIS */
+    border-radius: 10px; /* THIS */
   }
+label:hover{color:#f1fc6f}
+
+
