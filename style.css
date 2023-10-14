@@ -32,5 +32,10 @@ label{color:#ff6c17;font-style:italic;}
     border-radius: 10px; /* THIS */
   }
 label:hover{color:#f1fc6f}
+#imgField.form-control {
+    height: 50px; /* Adjust the height as needed */
+    padding: 10px 12px; /* Adjust the padding as needed */
+}
+
 
 
